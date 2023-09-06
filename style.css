@@ -1,15 +1,17 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     box-sizing: border-box;
     text-decoration: none;
     list-style: none;
     scroll-behavior: smooth;
     scroll-margin: 80px;
 }
+
 body{
     overflow-x: hidden !important;
 }
+
 :root{
     --headfont: 'Barlow Semi Condensed', sans-serif;
     --textfont: 'Poppins', sans-serif;
@@ -463,7 +465,6 @@ header .bio-img{
 
 
 /* Contactus  Section */
-
 .contactus-section{
     height: fit-content;
     width: 85%;
